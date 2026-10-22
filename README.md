@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chihenry
 - 👀 I’m interested in software development and application testing
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 https://www.linkedin.com/in/henry-obi-b23474186
 
